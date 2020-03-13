@@ -2,7 +2,7 @@
 name: Task
 about: A task template
 title: "[TASK]"
-labels: ''
+labels: task
 assignees: ''
 
 ---
